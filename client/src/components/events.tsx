@@ -21,15 +21,15 @@ export function Events() {
   return (
     <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-4">
       <Container>
-        <h2 className="text-3xl font-bold mb-4">Events</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <h2 className="text-3xl mb-5">Events</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {events.map((event) => (
             <a
               href={event.eventLink}
               key={event.slug}
               className="bg-white rounded-lg border border-graphql-border shadow-md overflow-hidden hover:border-2 hover:border-graphql-pink hover:cursor-pointer transition-colors duration-300"
-              target="_blank" // to open links in a new tab
-              rel="noopener noreferrer" // for security reasons
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src={event.coverImage}
