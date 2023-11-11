@@ -1,4 +1,4 @@
-import { london, bangkok11, bangkok12 } from "../images";
+import { london, bangkok11, bangkok12, seattle } from "../images";
 
 const imgs = [
   {
@@ -8,6 +8,10 @@ const imgs = [
   {
     name: "GraphQL Bangkok 11",
     src: bangkok11,
+  },
+  {
+    name: "GraphQL Seattle",
+    src: seattle,
   },
   {
     name: "GraphQL London",

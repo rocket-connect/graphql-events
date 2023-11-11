@@ -26,6 +26,12 @@ export function Events() {
               key={event.slug}
               className="bg-white rounded-lg border border-graphql-border shadow-md overflow-hidden"
             >
+              <img
+                src={event.coverImage}
+                alt={event.name}
+                className="w-full h-40 object-contain"
+              />
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold mb-2">{event.name}</h3>
                 <p className="text-gray-600">{event.description}</p>

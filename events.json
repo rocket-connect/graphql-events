@@ -7,5 +7,23 @@
     "coverImage": "https://secure.meetupstatic.com/photos/event/e/1/1/e/600_517197630.webp?w=750",
     "eventLink": "https://www.meetup.com/graphql-sg/events/296809027/",
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+  },
+  {
+    "name": "GraphQL Bangkok 12",
+    "slug": "graphql-bangkok-12",
+    "location": "Bangkok",
+    "date": "2023-11-02",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/7/5/3/600_516646931.webp?w=750",
+    "eventLink": "https://www.meetup.com/graphql-bangkok/events/296635356/",
+    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+  },
+  {
+    "name": "October Meetup @ Microsoft",
+    "slug": "graphql-seattle-01",
+    "location": "Seattle",
+    "date": "2023-10-26",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/9/5/d/1/600_515858353.webp?w=750",
+    "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732",
+    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   }
 ]
