@@ -17,7 +17,42 @@ To submit an event, please open a PR with your event added to the `events.json` 
 
 ## Running locally
 
-This project is managed by pnpm.
+This project is managed by pnpm and written in typescript. You will need pnpm installed globally to run this project.
+
+```bash
+npm i -g pnpm
+```
+
+Now you can install the project dependencies.
+
+```bash
+pnpm i
+```
+
+## Build
+
+To build the project run the following command.
+
+```bash
+pnpm build
+```
+
+## Run
+
+### Server
+
+To run the server run the following command.
+
+```bash
+pnpm run server
+```
+
+### Client
+To run webpack dev server run the following command.
+
+```bash
+pnpm run client
+```
 
 ## License
 
