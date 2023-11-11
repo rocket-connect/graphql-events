@@ -32,6 +32,7 @@ export function Images() {
           <a href={image.eventLink} className="hover:text-graphql-pink">
             <div key={image.name} className="flex flex-col items-center p-4">
               <img
+                loading="lazy"
                 className="w-36 h-36 rounded-full object-cover"
                 src={image.src}
                 alt={image.name}

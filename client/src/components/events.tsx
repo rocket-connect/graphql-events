@@ -32,6 +32,7 @@ export function Events() {
               rel="noopener noreferrer"
             >
               <img
+                loading="lazy"
                 src={event.coverImage}
                 alt={event.name}
                 className="w-full h-40 object-contain"

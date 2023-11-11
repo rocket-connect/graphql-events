@@ -20,7 +20,7 @@ export function Header() {
               className="flex items-center"
             >
               <span className="w-5 md:w-10">
-                <img src={githubBlue} alt="github" />
+                <img loading="lazy" src={githubBlue} alt="github" />
               </span>
             </a>
           </div>
