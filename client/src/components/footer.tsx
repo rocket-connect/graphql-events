@@ -55,7 +55,7 @@ export function Footer() {
     <div className="text-white bg-graphql-blue py-10 mt-auto">
       <Container>
         <div className="flex flex-col items-center justify-center gap-10">
-          <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-20">
+          <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-10">
             {urlGroups.map((urls, index) => (
               <UrlList key={index} urls={urls} />
             ))}
