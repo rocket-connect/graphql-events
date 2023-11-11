@@ -32,7 +32,7 @@ module.exports = {
         options: { transpileOnly: true },
       },
       {
-        test: /\.(png|jpg|woff|woff2|eot|ttf)$/,
+        test: /\.(png|jpg|jpeg|woff|woff2|eot|ttf)$/,
         use: [
           {
             loader: "url-loader",
