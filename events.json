@@ -1,6 +1,6 @@
 [
   {
-    "name": "GraphQL Sigapore 6",
+    "name": "Singapore November @ LLI",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
     "date": "2023-11-15",
@@ -18,7 +18,7 @@
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   },
   {
-    "name": "GraphQL Bangkok 12",
+    "name": "Bangkok November @ Seven Peaks",
     "slug": "graphql-bangkok-12",
     "location": "Bangkok",
     "date": "2023-11-02",
@@ -27,7 +27,7 @@
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   },
   {
-    "name": "October Meetup @ Microsoft",
+    "name": "Seattle October @ Microsoft",
     "slug": "graphql-seattle-01",
     "location": "Seattle",
     "date": "2023-10-26",
@@ -36,7 +36,7 @@
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   },
   {
-    "name": "GraphQL SF #12: Generative AI Night hosted at GitHub",
+    "name": "San Francisco September @ GitHub",
     "slug": "graphql-sf-12",
     "location": "San Francisco",
     "date": "2023-09-19",
@@ -45,7 +45,7 @@
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   },
   {
-    "name": "GraphQL London September Meetup",
+    "name": "London September @ Neo4j",
     "slug": "graphql-london-01",
     "location": "London",
     "date": "2023-09-07",
