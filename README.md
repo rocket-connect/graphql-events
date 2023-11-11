@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-<img src="./assets/logo.svg" width="20%" alt="GraphQL Debugger">
+<img src="./assets/logo.png" width="20%" alt="GraphQL Events">
 
 <h1>GraphQL Events</h1>
 
@@ -18,3 +18,7 @@ To submit an event, please open a PR with your event added to the `events.json` 
 ## Running locally
 
 This project is managed by pnpm.
+
+## License
+
+MIT Rocket Connect.
