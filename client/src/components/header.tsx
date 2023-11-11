@@ -1,4 +1,4 @@
-import { logo } from "../images";
+import { githubBlue, logo } from "../images";
 
 export function Header() {
   return (
@@ -8,6 +8,17 @@ export function Header() {
           <img src={logo} alt="logo" className="w-10" />
 
           <p className="text-2xl text-graphql-pink my-auto">GraphQL Events</p>
+        </div>
+
+        <div className="flex gap-10">
+          <a
+            href="https://github.com/rocket-connect/graphql-events"
+            className="flex items-center"
+          >
+            <span className="w-8">
+              <img src={githubBlue} alt="github" />
+            </span>
+          </a>
         </div>
       </div>
     </div>
