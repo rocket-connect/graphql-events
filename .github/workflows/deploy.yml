@@ -23,5 +23,5 @@ jobs:
             git reset --hard
             git pull origin main
             pnpm install
-            pnpm build
+            API_URL="https://graphql-events.org" pnpm build --force
             pm2 restart graphql-events.org

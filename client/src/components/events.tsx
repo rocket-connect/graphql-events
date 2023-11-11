@@ -9,7 +9,6 @@ export function Events() {
     (async () => {
       try {
         const _e = await getEvents();
-
         setEvents(_e);
       } catch (error) {
         console.error(error);
@@ -18,15 +17,29 @@ export function Events() {
   }, []);
 
   return (
-    <div className="container mx-auto">
-      <h1>Hi GraphQL Events</h1>
-
-      {events.map((event) => (
-        <div key={event.slug}>
-          <p>{event.name}</p>
-          <p>{event.description}</p>
+    <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-4">
+      <div className="container mx-auto py-4">
+        <h2 className="text-2xl mb-4">Events</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {events.map((event) => (
+            <div
+              key={event.slug}
+              className="bg-white rounded-lg border border-graphql-border shadow-md overflow-hidden"
+            >
+              <div className="p-4">
+                <h3 className="text-xl font-semibold mb-2">{event.name}</h3>
+                <p className="text-gray-600">{event.description}</p>
+              </div>
+              <div className="p-4 border-t border-graphql-border">
+                <p className="text-sm text-gray-600">Date: {event.date}</p>
+                <p className="text-sm text-gray-600">
+                  Location: {event.location}
+                </p>
+              </div>
+            </div>
+          ))}
         </div>
-      ))}
+      </div>
     </div>
   );
 }
