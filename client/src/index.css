@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Rubik", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* Add other global styles if needed */
+}
