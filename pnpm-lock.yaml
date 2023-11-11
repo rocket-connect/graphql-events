@@ -57,7 +57,7 @@ importers:
   client:
     dependencies:
       autoprefixer:
-        specifier: ^10.4.16
+        specifier: 10.4.16
         version: 10.4.16(postcss@8.4.31)
       clean-webpack-plugin:
         specifier: 4.0.0
@@ -69,7 +69,7 @@ importers:
         specifier: 11.0.0
         version: 11.0.0(webpack@5.89.0)
       css-loader:
-        specifier: ^6.8.1
+        specifier: 6.8.1
         version: 6.8.1(webpack@5.89.0)
       html-webpack-plugin:
         specifier: 5.5.3
@@ -92,8 +92,11 @@ importers:
       react-router-dom:
         specifier: 6.18.0
         version: 6.18.0(react-dom@18.2.0)(react@18.2.0)
+      style-loader:
+        specifier: 3.3.3
+        version: 3.3.3(webpack@5.89.0)
       svg-url-loader:
-        specifier: ^8.0.0
+        specifier: 8.0.0
         version: 8.0.0(webpack@5.89.0)
       tailwind:
         specifier: 4.0.0
@@ -5306,6 +5309,15 @@ packages:
     resolution: {integrity: sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==}
     engines: {node: '>=8'}
     dev: true
+
+  /style-loader@3.3.3(webpack@5.89.0):
+    resolution: {integrity: sha512-53BiGLXAcll9maCYtZi2RCQZKa8NQQai5C4horqKyRmHj9H7QmcUyucrH+4KW/gBQbXM2AsB0axoEcFZPlfPcw==}
+    engines: {node: '>= 12.13.0'}
+    peerDependencies:
+      webpack: ^5.0.0
+    dependencies:
+      webpack: 5.89.0(webpack-cli@5.1.4)
+    dev: false
 
   /sucrase@3.34.0:
     resolution: {integrity: sha512-70/LQEZ07TEcxiU2dz51FKaE6hCTWC6vr7FOk3Gr0U60C3shtAN+H+BFr9XlYe5xqf3RA8nrc+VIwzCfnxuXJw==}
