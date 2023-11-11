@@ -1,36 +1,52 @@
+const urlGroups = [
+  [
+    { href: "https://graphql.org/", text: "graphql.org" },
+    { href: "https://graphql.org/foundation/", text: "graphql.org/foundation" },
+    { href: "https://twitter.com/GraphQL", text: "twitter.com/GraphQL" },
+    { href: "https://www.graphql-events.org/", text: "graphql-events.org" },
+    {
+      href: "https://github.com/rocket-connect/graphql-events",
+      text: "Github",
+    },
+  ],
+  [
+    {
+      href: "https://www.meetup.com/graphql-sf/",
+      text: "meetup.com/graphql-sf",
+    },
+    {
+      href: "https://www.meetup.com/graphql-bangkok/",
+      text: "meetup.com/graphql-bangkok",
+    },
+    {
+      href: "https://www.meetup.com/graphql-sg/",
+      text: "meetup.com/graphql-sg",
+    },
+    {
+      href: "https://guild.host/graphql-london/",
+      text: "guild.host/graphql-london",
+    },
+    {
+      href: "https://www.meetup.com/graphql-seattle",
+      text: "meetup.com/graphql-seattle",
+    },
+  ],
+];
+
 const UrlList = ({ urls }) => (
   <ul className="marker:text-graphql-pink list-disc ml-6">
-    {urls.map((url) => (
-      <li key={url}>
+    {urls.map((link) => (
+      <li key={link.href}>
         <a
-          href={url}
+          href={link.href}
           className="block p-1 hover:text-graphql-pink transition-colors duration-300"
         >
-          {url}
+          {link.text}
         </a>
       </li>
     ))}
   </ul>
 );
-
-const urlGroups = [
-  [
-    "https://graphql.org/",
-    "https://graphql.org/foundation/",
-    "https://twitter.com/GraphQL",
-  ],
-  [
-    "https://www.meetup.com/graphql-sf/",
-    "https://www.meetup.com/graphql-bangkok/",
-    "https://www.meetup.com/graphql-sg/",
-    "https://guild.host/graphql-london/",
-    "https://www.meetup.com/graphql-seattle",
-  ],
-  [
-    "https://github.com/rocket-connect/graphql-events",
-    "https://www.graphql-events.org/",
-  ],
-];
 
 export function Footer() {
   return (
