@@ -9,6 +9,15 @@
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   },
   {
+    "name": "What's wrong with GraphQL?!",
+    "slug": "whats-wrong-with-graphql",
+    "location": "New York",
+    "date": "2023-11-15",
+    "coverImage": "https://guild.host/social/event/whats-wrong-with-graphql-rn47hs/card.svg",
+    "eventLink": "https://guild.host/events/whats-wrong-with-graphql-rn47hs",
+    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+  },
+  {
     "name": "GraphQL Bangkok 12",
     "slug": "graphql-bangkok-12",
     "location": "Bangkok",
@@ -24,6 +33,24 @@
     "date": "2023-10-26",
     "coverImage": "https://secure.meetupstatic.com/photos/event/9/5/d/1/600_515858353.webp?w=750",
     "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732",
+    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+  },
+  {
+    "name": "GraphQL SF #12: Generative AI Night hosted at GitHub",
+    "slug": "graphql-sf-12",
+    "location": "San Francisco",
+    "date": "2023-09-19",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/a/a/600_515784490.webp?w=750",
+    "eventLink": "https://www.meetup.com/graphql-sf/events/295804141/",
+    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+  },
+  {
+    "name": "GraphQL London September Meetup",
+    "slug": "graphql-london-01",
+    "location": "London",
+    "date": "2023-09-07",
+    "coverImage": "https://ik.imagekit.io/guild/prod/681642ce-8bd6-4902-9b5a-5f1492614a4f.png?tr=w-1067:c-at_max,w-1067,h-533",
+    "eventLink": "https://guild.host/events/september-meetup-lxmkv4",
     "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
   }
 ]
