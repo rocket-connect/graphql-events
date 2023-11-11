@@ -6,7 +6,6 @@ export const EventSchema = z.object({
   location: z.string(),
   date: z.string(),
   coverImage: z.string(),
-  description: z.string(),
   eventLink: z.string(),
 });
 

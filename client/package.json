@@ -21,6 +21,7 @@
     "copy-webpack-plugin": "11.0.0",
     "css-loader": "6.8.1",
     "html-webpack-plugin": "5.5.3",
+    "moment": "^2.29.4",
     "node-polyfill-webpack-plugin": "2.0.1",
     "postcss-loader": "7.3.3",
     "react": "18.2.0",

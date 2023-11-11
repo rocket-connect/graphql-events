@@ -3,54 +3,48 @@
     "name": "Singapore November @ LLI",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
-    "date": "2023-11-15",
+    "date": "2023-11-15T18:00:00+08:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/e/1/1/e/600_517197630.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-sg/events/296809027/",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://www.meetup.com/graphql-sg/events/296809027/"
   },
   {
     "name": "What's wrong with GraphQL?!",
     "slug": "whats-wrong-with-graphql",
     "location": "New York",
-    "date": "2023-11-15",
+    "date": "2023-11-15T16:00:00-05:00",
     "coverImage": "https://guild.host/social/event/whats-wrong-with-graphql-rn47hs/card.svg",
-    "eventLink": "https://guild.host/events/whats-wrong-with-graphql-rn47hs",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://guild.host/events/whats-wrong-with-graphql-rn47hs"
   },
   {
     "name": "Bangkok November @ Seven Peaks",
     "slug": "graphql-bangkok-12",
     "location": "Bangkok",
-    "date": "2023-11-02",
+    "date": "2023-11-02T18:00:00+07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/b/7/5/3/600_516646931.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-bangkok/events/296635356/",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://www.meetup.com/graphql-bangkok/events/296635356/"
   },
   {
     "name": "Seattle October @ Microsoft",
     "slug": "graphql-seattle-01",
     "location": "Seattle",
-    "date": "2023-10-26",
+    "date": "2023-10-26T18:00:00-07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/9/5/d/1/600_515858353.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732"
   },
   {
     "name": "San Francisco September @ GitHub",
     "slug": "graphql-sf-12",
     "location": "San Francisco",
-    "date": "2023-09-19",
+    "date": "2023-09-19T18:00:00-07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/a/a/600_515784490.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-sf/events/295804141/",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://www.meetup.com/graphql-sf/events/295804141/"
   },
   {
     "name": "London September @ Neo4j",
     "slug": "graphql-london-01",
     "location": "London",
-    "date": "2023-09-07",
+    "date": "2023-09-07T18:00:00+01:00",
     "coverImage": "https://ik.imagekit.io/guild/prod/681642ce-8bd6-4902-9b5a-5f1492614a4f.png?tr=w-1067:c-at_max,w-1067,h-533",
-    "eventLink": "https://guild.host/events/september-meetup-lxmkv4",
-    "description": "Join us for another insightful session where we delve deeper into GraphQL, API, and related topics."
+    "eventLink": "https://guild.host/events/september-meetup-lxmkv4"
   }
 ]

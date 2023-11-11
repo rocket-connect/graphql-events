@@ -80,6 +80,9 @@ importers:
       html-webpack-plugin:
         specifier: 5.5.3
         version: 5.5.3(webpack@5.89.0)
+      moment:
+        specifier: ^2.29.4
+        version: 2.29.4
       node-polyfill-webpack-plugin:
         specifier: 2.0.1
         version: 2.0.1(webpack@5.89.0)
@@ -3948,6 +3951,10 @@ packages:
 
   /moment@2.22.2:
     resolution: {integrity: sha512-LRvkBHaJGnrcWvqsElsOhHCzj8mU39wLx5pQ0pc6s153GynCTsPdGdqsVNKAQD9sKnWj11iF7TZx9fpLwdD3fw==}
+    dev: false
+
+  /moment@2.29.4:
+    resolution: {integrity: sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==}
     dev: false
 
   /morgan@1.9.1:
