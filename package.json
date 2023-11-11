@@ -2,7 +2,8 @@
   "name": "@graphql-events/monorepo",
   "version": "0.0.0",
   "scripts": {
-    "server": "cd ./server && npm start",
+    "server": "cd ./server && pnpm start",
+    "client": "cd ./client && pnpm dev",
     "build": "turbo build",
     "lint": "eslint .",
     "format": "prettier --write .",
