@@ -79,7 +79,7 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       template: "./src/index.html",
-      favicon: "./public/favicon.svg",
+      favicon: "./public/favicon.png",
     }),
     new NodePolyfillPlugin(),
     ...(process.env.NODE_ENV === "production" ? [new CompressionPlugin()] : []),
