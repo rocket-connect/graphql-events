@@ -1,4 +1,5 @@
 import { london, bangkok11, bangkok12, seattle } from "../images";
+import { Container } from "./container";
 
 const imgs = [
   {
@@ -25,19 +26,21 @@ const imgs = [
 
 export function Images() {
   return (
-    <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 items-center my-20">
-      {imgs.map((image) => (
-        <a href={image.eventLink} className="hover:text-graphql-pink">
-          <div key={image.name} className="flex flex-col items-center p-4">
-            <img
-              className="w-36 h-36 rounded-full object-cover"
-              src={image.src}
-              alt={image.name}
-            />
-            <p className="text-sm text-center mt-2 underline">{image.name}</p>
-          </div>
-        </a>
-      ))}
-    </div>
+    <Container>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 items-center my-20">
+        {imgs.map((image) => (
+          <a href={image.eventLink} className="hover:text-graphql-pink">
+            <div key={image.name} className="flex flex-col items-center p-4">
+              <img
+                className="w-36 h-36 rounded-full object-cover"
+                src={image.src}
+                alt={image.name}
+              />
+              <p className="text-sm text-center mt-2 underline">{image.name}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </Container>
   );
 }
