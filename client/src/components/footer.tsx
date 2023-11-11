@@ -51,8 +51,8 @@ const UrlList = ({ urls }) => (
 export function Footer() {
   return (
     <div className="text-white bg-graphql-blue py-10 mt-auto">
-      <div className="flex flex-col items-center justify-center gap-5 sm:gap-10">
-        <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-5">
+      <div className="flex flex-col items-center justify-center gap-10">
+        <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-20">
           {urlGroups.map((urls, index) => (
             <UrlList key={index} urls={urls} />
           ))}
