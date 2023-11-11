@@ -19,7 +19,7 @@ export function Events() {
   return (
     <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-4">
       <div className="container mx-auto py-4">
-        <h2 className="text-2xl mb-4">Events</h2>
+        <h2 className="text-3xl font-bold mb-4">Events</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {events.map((event) => (
             <div
