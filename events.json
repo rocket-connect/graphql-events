@@ -10,7 +10,7 @@
     "hostLink": "https://brigad.co/"
   },
   {
-    "name": "Singapore November",
+    "name": "Singapore November 6",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
     "date": "2023-11-15T18:00:00+08:00",
@@ -30,7 +30,7 @@
     "hostLink": "https://www.pinterest.com/"
   },
   {
-    "name": "Bangkok November",
+    "name": "Bangkok November 12",
     "slug": "graphql-bangkok-12",
     "location": "Bangkok",
     "date": "2023-11-02T18:00:00+07:00",
@@ -68,5 +68,15 @@
     "eventLink": "https://guild.host/events/september-meetup-lxmkv4",
     "host": "Neo4j",
     "hostLink": "https://neo4j.com/"
+  },
+  {
+    "name": "Bangkok July 11",
+    "slug": "graphql-bangkok-11",
+    "location": "Bangkok",
+    "date": "2023-07-31T18:00:00+07:00",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/3/4/9/600_514637225.webp?w=750",
+    "eventLink": "https://www.meetup.com/graphql-bangkok/events/294721074/",
+    "host": "True Digital Park",
+    "hostLink": "https://www.truedigitalpark.com/"
   }
 ]
