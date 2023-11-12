@@ -1,15 +1,5 @@
 [
   {
-    "name": "Paris November",
-    "slug": "graphql-paris-Brigad",
-    "location": "Paris",
-    "date": "2023-11-16T18:00:00+02:00",
-    "coverImage": "/banner.png",
-    "eventLink": "https://www.meetup.com/parisgraphql/events/296812616/",
-    "host": "Brigad",
-    "hostLink": "https://brigad.co/"
-  },
-  {
     "name": "Singapore November 6",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
