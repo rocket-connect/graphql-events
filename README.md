@@ -11,9 +11,9 @@
 </div>
 </div>
 
-## Submitting an event
+## Add your event
 
-To submit an event, please open a PR with your event added to the `events.json` file. Please follow the format of the other events in the file.
+To add your event, please open a PR with your event added to the `events.json` file. Please follow the format of the other events in the file.
 
 ## Running locally
 
