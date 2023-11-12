@@ -19,15 +19,15 @@ export function Events() {
   }, []);
 
   return (
-    <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-4">
+    <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-20">
       <Container>
-        <h2 className="text-3xl mb-5">Events</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        <h2 className="text-3xl mb-10 font-bold">Events</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20">
           {events.map((event) => (
             <a
               href={event.eventLink}
               key={event.slug}
-              className="bg-white rounded-lg border border-graphql-border shadow-md overflow-hidden hover:border-2 hover:border-graphql-pink hover:cursor-pointer transition-colors duration-300"
+              className="bg-white rounded-lg border border-graphql-border shadow-md overflow-hidden hover:border hover:border-graphql-pink hover:cursor-pointer transition-colors duration-300"
               target="_blank"
               rel="noopener noreferrer"
             >
