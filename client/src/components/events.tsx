@@ -19,10 +19,10 @@ export function Events() {
   }, []);
 
   return (
-    <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border p-20">
+    <div className="drop-shadow-lg w-full bg-white grow border-t-2 border-graphql-border py-10 md:py-20">
       <Container>
         <h2 className="text-3xl mb-10 font-bold">Events</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 md:gap-20">
           {events.map((event) => (
             <a
               href={event.eventLink}
