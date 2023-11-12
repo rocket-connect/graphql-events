@@ -1,11 +1,23 @@
 [
   {
-    "name": "Singapore November @ LLI",
+    "name": "Paris November",
+    "slug": "graphql-paris-Brigad",
+    "location": "Paris",
+    "date": "2023-11-16T18:00:00+02:00",
+    "coverImage": "/banner.png",
+    "eventLink": "https://www.meetup.com/parisgraphql/events/296812616/",
+    "host": "Brigad",
+    "hostLink": "https://brigad.co/"
+  },
+  {
+    "name": "Singapore November",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
     "date": "2023-11-15T18:00:00+08:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/e/1/1/e/600_517197630.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-sg/events/296809027/"
+    "eventLink": "https://www.meetup.com/graphql-sg/events/296809027/",
+    "host": "Life Long Learning Institute",
+    "hostLink": "https://www.lli.sg/"
   },
   {
     "name": "What's wrong with GraphQL?!",
@@ -13,38 +25,48 @@
     "location": "New York",
     "date": "2023-11-15T16:00:00-05:00",
     "coverImage": "https://guild.host/social/event/whats-wrong-with-graphql-rn47hs/card.svg",
-    "eventLink": "https://guild.host/events/whats-wrong-with-graphql-rn47hs"
+    "eventLink": "https://guild.host/events/whats-wrong-with-graphql-rn47hs",
+    "host": "Pinterest",
+    "hostLink": "https://www.pinterest.com/"
   },
   {
-    "name": "Bangkok November @ Seven Peaks",
+    "name": "Bangkok November",
     "slug": "graphql-bangkok-12",
     "location": "Bangkok",
     "date": "2023-11-02T18:00:00+07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/b/7/5/3/600_516646931.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-bangkok/events/296635356/"
+    "eventLink": "https://www.meetup.com/graphql-bangkok/events/296635356/",
+    "host": "Seven Peaks",
+    "hostLink": "https://sevenpeakssoftware.com/"
   },
   {
-    "name": "Seattle October @ Microsoft",
+    "name": "Seattle October",
     "slug": "graphql-seattle-01",
     "location": "Seattle",
     "date": "2023-10-26T18:00:00-07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/9/5/d/1/600_515858353.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732"
+    "eventLink": "https://www.meetup.com/graphql-seattle/events/296065732",
+    "host": "Microsoft",
+    "hostLink": "https://www.microsoft.com/"
   },
   {
-    "name": "San Francisco September @ GitHub",
+    "name": "San Francisco September",
     "slug": "graphql-sf-12",
     "location": "San Francisco",
     "date": "2023-09-19T18:00:00-07:00",
     "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/a/a/600_515784490.webp?w=750",
-    "eventLink": "https://www.meetup.com/graphql-sf/events/295804141/"
+    "eventLink": "https://www.meetup.com/graphql-sf/events/295804141/",
+    "host": "GitHub",
+    "hostLink": "https://github.com/"
   },
   {
-    "name": "London September @ Neo4j",
+    "name": "London September",
     "slug": "graphql-london-01",
     "location": "London",
-    "date": "2023-09-07T18:00:00+01:00",
+    "date": "2023-09-07T17:30:00+01:00",
     "coverImage": "https://ik.imagekit.io/guild/prod/681642ce-8bd6-4902-9b5a-5f1492614a4f.png?tr=w-1067:c-at_max,w-1067,h-533",
-    "eventLink": "https://guild.host/events/september-meetup-lxmkv4"
+    "eventLink": "https://guild.host/events/september-meetup-lxmkv4",
+    "host": "Neo4j",
+    "hostLink": "https://neo4j.com/"
   }
 ]

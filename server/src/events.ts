@@ -7,6 +7,8 @@ export const EventSchema = z.object({
   date: z.string(),
   coverImage: z.string(),
   eventLink: z.string(),
+  host: z.string(),
+  hostLink: z.string(),
 });
 
 export type EventType = z.infer<typeof EventSchema>;
