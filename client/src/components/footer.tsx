@@ -3,7 +3,7 @@ import { Container } from "./container";
 const meetups = {
   Europe: [
     {
-      href: "https://www.meetup.com/graphql-london/",
+      href: "https://guild.host/graphql-london",
       text: "GraphQL London",
     },
     {
