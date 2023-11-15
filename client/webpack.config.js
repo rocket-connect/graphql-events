@@ -2,10 +2,7 @@ const path = require("path");
 const webpack = require("webpack");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
-const TerserPlugin = require("terser-webpack-plugin");
-const CompressionPlugin = require("compression-webpack-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
-const NodePolyfillPlugin = require("node-polyfill-webpack-plugin");
 
 module.exports = {
   mode: "none",
@@ -15,14 +12,6 @@ module.exports = {
   resolve: {
     extensions: [".ts", ".tsx", ".mjs", ".json", ".js"],
   },
-  ...(process.env.NODE_ENV === "production"
-    ? {
-        optimization: {
-          minimize: true,
-          minimizer: [new TerserPlugin()],
-        },
-      }
-    : {}),
   module: {
     rules: [
       {
@@ -81,8 +70,6 @@ module.exports = {
       template: "./src/index.html",
       favicon: "./public/favicon.png",
     }),
-    new NodePolyfillPlugin(),
-    ...(process.env.NODE_ENV === "production" ? [new CompressionPlugin()] : []),
   ],
   devServer: {
     static: {
