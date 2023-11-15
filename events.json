@@ -1,5 +1,15 @@
 [
   {
+    "name": "Sydney December",
+    "slug": "graphql-sydney-01",
+    "location": "Sydney",
+    "date": "2023-12-05T18:00:00+11:00",
+    "coverImage": "TODO",
+    "eventLink": "TODO",
+    "host": "Microsoft",
+    "hostLink": "https://www.microsoft.com/"
+  },
+  {
     "name": "Singapore November 6",
     "slug": "graphql-sigapore-6",
     "location": "Singapore",
