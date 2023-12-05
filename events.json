@@ -4,10 +4,10 @@
     "slug": "graphql-sydney-01",
     "location": "Sydney",
     "date": "2023-12-05T18:00:00+11:00",
-    "coverImage": "TODO",
-    "eventLink": "TODO",
-    "host": "Microsoft",
-    "hostLink": "https://www.microsoft.com/"
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/6/c/600_517551564.webp?w=750",
+    "eventLink": "https://www.meetup.com/graphql-sydney/events/297415925/",
+    "host": "Microsoft Reactor",
+    "hostLink": "https://developer.microsoft.com/en-us/reactor/"
   },
   {
     "name": "Singapore November 6",
