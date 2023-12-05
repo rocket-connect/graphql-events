@@ -1,4 +1,14 @@
 [
+    {
+    "name": "Paris December 7",
+    "slug": "graphql-paris-pre-apidays",
+    "location": "Paris",
+    "date": "2023-12-07T18:00:00+02:00",
+    "coverImage": "/banner.png",
+    "eventLink": "https://www.meetup.com/parisgraphql/events/297676783/",
+    "host": "Escape, Stellate, Hasura",
+    "hostLink": "https://escape.tech/"
+  },
   {
     "name": "Sydney December",
     "slug": "graphql-sydney-01",
