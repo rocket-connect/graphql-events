@@ -1,5 +1,15 @@
 [
-    {
+  {
+    "name": "GraphQL Taipei",
+    "slug": "graphql-taipei",
+    "location": "Taipei",
+    "date": "2023-12-14T19:00:00+08:00",
+    "coverImage": "https://ik.imagekit.io/guild/prod/eb7af47f-c624-4ca0-9b68-19fe6c724f8b.png?tr=w-1067:c-at_max,w-1067,h-533",
+    "eventLink": "https://guild.host/events/graphql-taipei-001-aepqx5",
+    "host": "Oursky",
+    "hostLink": "https://www.oursky.com/"
+  },
+  {
     "name": "Paris December 7",
     "slug": "graphql-paris-pre-apidays",
     "location": "Paris",
