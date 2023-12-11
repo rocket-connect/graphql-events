@@ -92,6 +92,10 @@ const meetups = {
       href: "https://www.meetup.com/GraphQL-TLV/",
       text: "GraphQL Tel Aviv",
     },
+    {
+      href: "https://guild.host/graphql-taipei/events",
+      text: "GraphQL Taipei",
+    },
   ],
   "North America": [
     {
