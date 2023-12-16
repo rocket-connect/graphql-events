@@ -1,6 +1,16 @@
 [
   {
-    "name": "GraphQL Taipei",
+    "name": "GraphQL Bali 001",
+    "slug": "graphql-bali",
+    "location": "Bali",
+    "date": "2023-12-21T19:00:00+07:00",
+    "coverImage": "https://ik.imagekit.io/guild/prod/ed2b952c-2c05-46ab-bb11-3fe6dda18516.png?tr=w-1067:c-at_max,w-1067,h-533",
+    "eventLink": "https://guild.host/events/graphql-bali-001-2s7fso",
+    "host": "BWork Bali",
+    "hostLink": "https://bwork.id/"
+  },
+  {
+    "name": "GraphQL Taipei 001",
     "slug": "graphql-taipei",
     "location": "Taipei",
     "date": "2023-12-14T19:00:00+08:00",
