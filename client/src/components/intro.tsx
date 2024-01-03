@@ -8,17 +8,26 @@ export function Intro() {
           The home for GraphQL Community Events
         </h1>
 
-        <a
-          href="https://github.com/rocket-connect/graphql-events#submitting-an-event"
-          className="mx-auto"
-        >
-          <button
-            type="button"
-            className="text-graphql-pink px-8 lg:px-12 py-2 lg:py-3 border-2 border-graphql-pink rounded-lg hover:bg-graphql-pink hover:text-white transition-colors duration-300"
+        <div className="flex flex-col gap-5 text-graphql-pink">
+          <a
+            href="https://github.com/rocket-connect/graphql-events#submitting-an-event"
+            className="mx-auto"
           >
-            Add your Event
-          </button>
-        </a>
+            <button
+              type="button"
+              className="px-8 lg:px-12 py-2 lg:py-3 border-2 border-graphql-pink rounded-lg hover:bg-graphql-pink hover:text-white transition-colors duration-300"
+            >
+              Add your Event
+            </button>
+          </a>
+
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe7OXj59NMQ7eqIsYVQpTg3hmDT38aqL-BqF9badjQAKOxvwA/viewform"
+            className="mx-auto text-sm underline italic"
+          >
+            Need help starting an event?
+          </a>
+        </div>
       </div>
     </Container>
   );
