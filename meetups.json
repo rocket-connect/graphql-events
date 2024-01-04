@@ -1,0 +1,187 @@
+[
+  {
+    "href": "https://guild.host/graphql-london",
+    "text": "GraphQL London",
+    "continent": "Europe"
+  },
+
+  {
+    "href": "https://www.meetup.com/Amsterdam-GraphQL-Meetup/",
+    "text": "GraphQL Amsterdam",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-berlin/",
+    "text": "GraphQL Berlin",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-Barcelona/",
+    "text": "GraphQL Barcelona",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/Budapest-GraphQL/",
+    "text": "GraphQL Budapest",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/",
+    "text": "GraphQL Copenhagen",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-Milano/",
+    "text": "GraphQL Milano",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-munich/",
+    "text": "GraphQL Munich",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/fr-FR/parisgraphql/",
+    "text": "GraphQL Paris",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-sarajevo/",
+    "text": "GraphQL Sarajevo",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-Stockholm/",
+    "text": "GraphQL Stockholm",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-zurich/",
+    "text": "GraphQL Zurich",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-Wroclaw/",
+    "text": "GraphQL Wroclaw",
+    "continent": "Europe"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-bangkok/",
+    "text": "GraphQL Bangkok",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-sg/",
+    "text": "GraphQL Singapore",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-seoul/",
+    "text": "GraphQL Seoul",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.facebook.com/groups/graphql.kr",
+    "text": "GraphQL Korea",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/graphqlshenzhen/",
+    "text": "GraphQL Shenzhen",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQLHongKong/",
+    "text": "GraphQL Hongkong",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-bangalore/",
+    "text": "GraphQL Bangalore",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-Tokyo/",
+    "text": "GraphQL Tokyo",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-TLV/",
+    "text": "GraphQL Tel Aviv",
+    "continent": "Asia"
+  },
+  {
+    "href": "https://guild.host/graphql-taipei/events",
+    "text": "GraphQL Taipei",
+    "continent": "Asia"
+  },
+
+  {
+    "href": "https://www.meetup.com/graphql-sf/",
+    "text": "GraphQL San Francisco",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-seattle",
+    "text": "GraphQL Seattle",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-boston/",
+    "text": "GraphQL Boston",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-newyork/",
+    "text": "GraphQL NYC",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/ATX-GraphQL/",
+    "text": "GraphQL Austin",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-MN/",
+    "text": "GraphQL Minneapolis",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-denver/",
+    "text": "GraphQL Denver",
+    "continent": "North America"
+  },
+  {
+    "href": "https://www.meetup.com/graphql-chicago/",
+    "text": "GraphQL Chicago",
+    "continent": "North America"
+  },
+
+  {
+    "href": "https://www.meetup.com/graphql-sp/",
+    "text": "GraphQL São Paulo",
+    "continent": "South America"
+  },
+  {
+    "href": "https://www.meetup.com/GraphQL-BA/",
+    "text": "GraphQL Buenos Aires",
+    "continent": "South America"
+  },
+
+  {
+    "href": "http://graphql.melbourne/",
+    "text": "GraphQL Melbourne",
+    "continent": "Australia"
+  },
+  {
+    "href": "https://graphql.sydney/",
+    "text": "GraphQL Sydney",
+    "continent": "Australia"
+  },
+
+  {
+    "href": "https://www.meetup.com/nairobi-graphql-meetup/",
+    "text": "GraphQL Nairobi",
+    "continent": "Africa"
+  }
+]
